@@ -67,3 +67,12 @@ cout            - cout keyword
 cin             - cin keyword
 return          - return keyword
 eof             - End of File - '/0'
+
+
+3) Work on Scanner: Scanner scans through code to search for tokens.
+Once token is found, then calls lexical analyzer to generate that token
+Includes:
+a) Numbers
+b) Whitespaces
+c) Characters
+d) alphabets (keywords and identifiers)

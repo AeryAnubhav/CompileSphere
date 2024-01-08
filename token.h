@@ -84,4 +84,4 @@ typedef enum {
     TOKEN_COUT,               // Represents the "cout" keyword
     TOKEN_GOTO,               // Represents the "goto" keyword
     TOKEN_EOF                 // Represents the end-of-file token
-} Token;
+} token;
